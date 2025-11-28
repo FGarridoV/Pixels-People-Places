@@ -1,11 +1,13 @@
 # Pixels · People · Places: Computer Vision and Image Embeddings for Perception-Aware Urban Analytics
 
-Author: F.O. Garrido-Valenzuela
-(Important part of this repository was contributed by Max Lange)
-CityAI Lab, Transport and Logistic Group, Faculty of Technology, Policy, and Management, Delft University of Technology
+Author: F.O. Garrido-Valenzuela (important part of this repository was contributed by Max Lange)
+CityAI Lab
+Transport and Logistic Group
+Faculty of Technology, Policy, and Management
+Delft University of Technology
 Corresponding author: F.O. Garrido-Valenzuela
 
-Contact Information:
+#### Contact Information:
 f.garridov@uc.cl
 Delft University of Technology - Faculty of Technology, Policy, and Management
 Jaffalaan 5
@@ -25,7 +27,7 @@ This code and data is being made public both to act as supplementary data for pu
 thesis of Francisco Garrido-Valenzuela and in order for other researchers to use this data in their own
 work.
 
-### Purpose of the Codes***
+### Purpose of the Codes
 These codes operazionalizes the data collection and analysis of the studies. Based on just indicating the name of city, or its geographical boundaries. These scripts collect the different layers of information, analyze the data, for doing different urban analysis. 
 
 ### How to collect data and analyze different urban correlations/inferences
