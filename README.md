@@ -1,4 +1,4 @@
-*** Pixels · People · Places: Computer Vision and Image Embeddings for Perception-Aware Urban Analytics ***
+# Pixels · People · Places: Computer Vision and Image Embeddings for Perception-Aware Urban Analytics
 
 Author: F.O. Garrido-Valenzuela
 (Important part of this repository was contributed by Max Lange)
@@ -12,7 +12,7 @@ Jaffalaan 5
 2628 BX Delft
 The Netherlands
 
-***General Introduction***
+### General Introduction
 This repository contains:
 - Scripts for collecting different layers of urban data systematically.
 - Scripts for performing different urban analysis. Regressions, Correlations, Embeddings generations, among other. 
@@ -25,10 +25,10 @@ This code and data is being made public both to act as supplementary data for pu
 thesis of Francisco Garrido-Valenzuela and in order for other researchers to use this data in their own
 work.
 
-***Purpose of the Codes***
+### Purpose of the Codes***
 These codes operazionalizes the data collection and analysis of the studies. Based on just indicating the name of city, or its geographical boundaries. These scripts collect the different layers of information, analyze the data, for doing different urban analysis. 
 
-***How to collect data and analyse different urban correlations***
+### How to collect data and analyze different urban correlations/inferences
 This repository is structured in two main folders
 - UrbanAnalysis
     - UrbanTool: This is a self contained script for collecting urban data. As input you need a city in the format `city, country` as text. For instance, `Delft, the Netherlands`. By providing that information (or a list of cities as indicated in zone_lists folders), this scripts will conduct a data collection in the city specified. Specifically, this code retrieve: 
