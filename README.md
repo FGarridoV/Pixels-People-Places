@@ -2,12 +2,12 @@
 
 Author: F.O. Garrido-Valenzuela
 (Important part of this repository was contributed by Max Lange)
-CityAI Lab, Transport and Logistic Group, Faculty of Technology, Policy, and Managament, Delft University of Technology
+CityAI Lab, Transport and Logistic Group, Faculty of Technology, Policy, and Management, Delft University of Technology
 Corresponding author: F.O. Garrido-Valenzuela
 
 Contact Information:
 f.garridov@uc.cl
-Delft University of Technology - Faculty of Technology, Policy, and Managament
+Delft University of Technology - Faculty of Technology, Policy, and Management
 Jaffalaan 5
 2628 BX Delft
 The Netherlands
