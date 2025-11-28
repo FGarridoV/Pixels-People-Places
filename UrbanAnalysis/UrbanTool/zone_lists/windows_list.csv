@@ -1,0 +1,91 @@
+name,region,country,country_code,logs,tag:name1,tag:kind1,tag:tag1,tag:name2,tag:kind2,tag:tag2,boundary_opt,network_type,street_types,gap_grid,zone_grid,download_images,city_accuracy,executed
+Lochem,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Westvoorne,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Altena,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Loppersum,,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Eindhoven,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Epe,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Staphorst,Overijssel,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Waterland,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Roermond,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Aa en Hunze,Drenthe,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Ermelo,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Renkum,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Etten-Leur,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Haarlem,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Noordenveld,Drenthe,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Nijmegen,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Hillegom,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Capelle aan den IJssel,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Hellevoetsluis,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Montfoort,Utrecht,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Neder-Betuwe,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Beuningen,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Barendrecht,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Middelburg,Zeeland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Voorschoten,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Duiven,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Mook en Middelaar,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Hilversum,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Rucphen,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Hoogeveen,Drenthe,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Koggenland,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Bergeijk,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Enschede,Overijssel,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Medemblik,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,2
+Vught,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Diemen,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Schouwen-Duiveland,Zeeland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Zutphen,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Heerenveen,Friesland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Amsterdam,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Teylingen,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Beek,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Gulpen-Wittem,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Cuijk,,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Westerkwartier,Groningen,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Doesburg,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Lisse,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Dalfsen,Overijssel,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Oude IJsselstreek,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Kapelle,Zeeland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Albrandswaard,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Coevorden,Drenthe,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Roerdalen,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Almere,Flevoland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Rijswijk,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Enkhuizen,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Terschelling,Friesland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Uden,,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Geertruidenberg,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Krimpen aan den IJssel,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Cranendonck,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Ede,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Weert,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Gilze en Rijen,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Zwartewaterland,Overijssel,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Bergen (NH),North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Utrechtse Heuvelrug,Utrecht,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Best,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Achtkarspelen,Friesland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Sittard-Geleen,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Velsen,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Landsmeer,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Zandvoort,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Bunnik,Utrecht,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Heeze-Leende,North Brabant,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Steenwijkerland,Overijssel,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Den Helder,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Ouder-Amstel,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Dinkelland,Overijssel,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Leeuwarden,Friesland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,150,residential,1,1,1
+Opmeer,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,151,residential,1,1,1
+Beekdaelen,Limburg,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,152,residential,1,1,1
+Aalsmeer,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,153,residential,1,1,1
+Haarlemmermeer,North Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,154,residential,1,1,1
+Zeewolde,Flevoland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,155,residential,1,1,1
+Schiedam,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,156,residential,1,1,1
+Veendam,Groningen,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,157,residential,1,1,1
+Molenlanden,South Holland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,158,residential,1,1,1
+Rheden,Gelderland,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,159,residential,1,1,1
+Westerveld,Drenthe,the Netherlands,NL,1,amenities,point,"{""amenity"": ""True""}",residential,polygon,"{""landuse"": ""residential""}",region,all,all,160,residential,1,1,1
